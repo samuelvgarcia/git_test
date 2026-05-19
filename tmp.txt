@@ -1,5 +1,6 @@
 This is the first line
 Forgot to add this middle line.
+Some text in branch1
 One more line I forgot about.
 master commit
 This is the second line.
